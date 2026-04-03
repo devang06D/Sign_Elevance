@@ -6,7 +6,7 @@ A deep learning-based Indian Sign Language recognition system that can detect al
 
 ## 🎯 Project Objective
 
-The main goal of this project is to develop an intelligent system that can recognize **Indian Sign Language (ISL)** gestures in real-time and from static images. This helps bridge the communication gap between hearing-impaired individuals and the general public by translating sign language into readable text.
+The main goal of this project is to develop an intelligent system that can recognize **Sign Language** gestures in real-time and from static images. This helps bridge the communication gap between hearing-impaired individuals and the general public by translating sign language into readable text.
 
 **Key Features:**
 - Detects 36 classes (Digits 0-9 + Letters A-Z)
@@ -19,7 +19,7 @@ The main goal of this project is to develop an intelligent system that can recog
 
 ## 📁 Dataset
 
-- **Source**: Custom ISL Dataset
+- **Source**: Custom ISL Dataset (Kaggle)
 - **Total Classes**: 36 (0-9 and A-Z)
 - **Structure**:
   - `train/` → Contains training images for each class
